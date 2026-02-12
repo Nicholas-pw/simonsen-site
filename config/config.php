@@ -1,6 +1,8 @@
 <?php
 // Configurações do Sistema
-define('BASE_URL', 'http://localhost/simonsen-site/public/');
+
+define('BASE_URL', '/simonsen-site/public/');
+
 define('APP_NAME', 'Faculdade Simonsen');
 define('APP_VERSION', '1.0.0');
 
